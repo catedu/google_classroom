@@ -1,0 +1,3 @@
+# MÓDULO 4\. MÁS ALLÁ DE CLASSROOM {#m-dulo-4-m-s-all-de-classroom}
+
+En los módulos anteriores hemos conocido las funcionalidades básicas de Google Classroom, más que suficientes para su utilización diaria en el aula. En este último módulo del curso vamos a presentar algunas opciones avanzadas que facilitan aspectos concretos del trabajo con Google Classroom o que pueden resultar interesantes a los usuarios de determinadas aplicaciones de la Web 2.0 que son compatibles.
