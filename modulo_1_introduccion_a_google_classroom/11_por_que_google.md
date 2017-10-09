@@ -15,4 +15,6 @@ Con una cuenta de Google ya tenemos todas esas ventajas. Entonces, ¿qué nos pu
 *   Aumenta la capacidad de almacenamiento en la nube. Cada usuario dispone de almacenamiento ilimitado para Google Drive, Gmail y Google Fotos. (Si tienes 4 o menos usuarios en tu organización, cada uno obtiene 1 TB de almacenamiento). Para Google Sites, el límite está en 100 GB.
 *   Proporciona un entorno de aprendizaje, Google Classroom.
 
+![servicios](../assets/image35.png)
+
 Fig. 1\. Servicios básicos incluidos en [G Suite for Education](https://gsuite.google.com/terms/user_features.html). Además, como [servicios adicionales](https://support.google.com/a/answer/181865), incluye Blogger, Maps, Photos, Panoramio, Youtube, etc.

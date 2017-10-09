@@ -1,7 +1,8 @@
 # Summary
 
 * [Google Classroom](README.md)
-* [MÓDULO 1. INTRODUCCIÓN A GOOGLE CLASSROOM](modulo_1_introduccion_a_google_classroom/README.md)
+
+## 1. INTRODUCCIÓN A GOOGLE CLASSROOM
   * [1.1. ¿Por qué Google?](modulo_1_introduccion_a_google_classroom/11_por_que_google.md)
   * [1.2. ¿Qué ofrece Google Classroom?](modulo_1_introduccion_a_google_classroom/12_que_ofrece_google_classroom.md)
   * [1.3. Google Classroom. ¿Por dónde empezar?](modulo_1_introduccion_a_google_classroom/13_google_classroom_por_donde_empezar.md)

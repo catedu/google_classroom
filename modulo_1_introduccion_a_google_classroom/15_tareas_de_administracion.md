@@ -4,7 +4,11 @@ Además de registrar el dominio y solicitar el servicio, el Administrador es el 
 
 Solo él o los docentes Administradores (existe un Superadministrador que puede crear usuarios Administradores) tienen acceso a la Consola de Administración.
 
+![Acceso a la consola](../assets/image15.png)
+
 Fig. 4\. Acceso al panel de Administración desde el inicio de sesión
+
+![Consola de administración](../assets/image23.png)
 
 Fig. 5\. Escritorio de Administración
 

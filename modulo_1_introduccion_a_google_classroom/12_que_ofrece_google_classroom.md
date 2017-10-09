@@ -4,4 +4,6 @@ Google Classroom es una especie de aula virtual + red social que permite alojar 
 
 A lo largo de este curso iremos analizando y poniendo en práctica todas estas posibilidades.
 
+![classroom](../assets/image2.png)
+
 Fig. 2\. Google Classroom. [https://classroom.google.com/](https://classroom.google.com/)
