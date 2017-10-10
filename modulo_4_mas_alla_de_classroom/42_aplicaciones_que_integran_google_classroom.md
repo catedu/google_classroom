@@ -10,19 +10,25 @@ EDpuzzle se integra fácilmente en Google Classroom, de manera que los vídeos e
 
 El registro en EDpuzzle es sencillo: si entramos con nuestra cuenta de Google (ha de ser la misma que utilizamos en Classroom), no tenemos que dar ningún dato más. Eso sí, hay que dar permiso a la aplicación para que acceda a nuestro Classroom. Desde ese momento, nuestras clases y el nombre del nuestros alumnos aparecerán en EDpuzzle y desde ahí podremos crear tareas, asignarlas y monitorizarlas. Los alumnos, sin necesidad de registro previo, podrán acceder a la tarea de EDpuzzle que les habremos anunciado en Classroom.
 
-[insertar presentación Módulo4_Edpuzzle]
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJrJFEERQ99RMIi4O9eeezamvGkMVqe5LmZQnLBLYRvWdf_rWPS2xw3zKDRhinqYQOKOHc11soxR-r/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ### 4.2.2 Geogebra y Google Classroom {#4-2-2-geogebra-y-google-classroom}
 
 Dentro de las aplicaciones específicas para las distintas disciplinas, cabe destacar en Matemáticas, el software Geogebra que dispone de miles de applets listos para usar y que se pueden compartir directamente en Classroom de manera muy sencilla, bien como información o como tareas.
 
-insertar presentacion Modulo4_4.Geogebra
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR3JMNLp5wryNep8xyhV2JdQnNJ3UXpTfb1aXhTzA8pLYpuR_tP5WBS0tXsVVI5fWZencg6REb5ZQzE/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ### 4.2.3 Screencast-O-matic y Classroom {#4-2-3-screencast-o-matic-y-classroom}
 
 En ocasiones resulta muy útil elaborar un pequeño video para explicar cómo realizar algo en el ordenador. Esta aplicación integrada con Classroom, permite realizar estos videos de forma rápida y sencilla y colocarlos instantáneamente en el muro de los alumnos como un anuncio, una pregunta o una tarea.
 
-Insertar presentación Modulo4_Scren-O-matic
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROkLgAR8NCwnXnJk_d5RGT0u70mG9Jq6bvP5d5sQFNvdx07_LYvbteyM_cKBrQL-GzT2lsSsxHnCbq/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ### 4.2.4\. Otras aplicaciones: {#4-2-4-otras-aplicaciones}
 

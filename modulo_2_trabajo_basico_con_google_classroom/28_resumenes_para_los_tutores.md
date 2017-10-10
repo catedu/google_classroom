@@ -14,4 +14,6 @@ Les llega información acerca de:
 
 De forma predeterminada, los resúmenes por correo de tus clases están desactivados. El profesor de la clase debe activarlos desde la pestaña “Alumnos”. En el apartado 2.2\. se ha explicado cómo hacerlo.
 
-[insertar presentación Modulo2_2.8]
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-P9iLU_-VvXlR-2ZUmSgtMx7Od2pXsGajVjdwR0fTTq8l6mV099GfQQF3mGFN6FwHvngVPnnre_2M/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>

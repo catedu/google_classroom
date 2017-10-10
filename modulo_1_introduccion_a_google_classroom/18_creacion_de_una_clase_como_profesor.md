@@ -25,4 +25,6 @@ Classroom tiene tres secciones o partes importantes, a las que se accede desde c
 
 En la siguiente presentación se repasan los pasos a seguir para crear una clase y personalizar la cabecera y se muestran las tres partes principales de Classroom, cuya utilidad desarrollaremos en los siguientes temas.
 
-[incrustar aquí la presentación Mod1_1.8]
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSh45g6zKQEKL9LCf_WgBYdQJo7G1SbaoXmjg3DEX9-MuX5E9bSHSSXC8dye7m3HlYku9XC1OS6YbLR/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>

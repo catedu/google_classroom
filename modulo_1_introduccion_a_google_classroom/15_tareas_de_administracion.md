@@ -26,6 +26,8 @@ Fig 7\. Pantalla de creación de un nuevo usuario
 
 Para añadir un número alto de usuarios es necesario crear previamente una hoja de cálculo en formato *.csv con todos ellos, en la que se incluyan todos los datos que se solicitan: nombre, usuario, contraseña y otros según las indicaciones que se muestran en las ayudas.
 
+![subir_usuarios](../assets/image30.png)
+
 Fig 8\. Pantalla para inscripción masiva de usuarios
 
 La siguiente tarea esencial es la de creación de grupos, pues facilita enormemente el trabajo posterior. Se trata de establecer a qué grupo o grupos pertenece cada alumno: por ejemplo, un alumno de 1º de PAI puede incluirse en el grupo 1pai@nombrecentro y también en 1a@nombrecentro y en delegados@nombrecentro. Al tener grupos creados, si un profesor quiere comunicarse por correo electrónico con todos los alumnos de su clase o matricularlos en Classroom, no tiene que escribir sus direcciones de una en una; con que escriba el nombre del grupo es suficiente.
@@ -34,4 +36,6 @@ Google afirma que “prácticamente puedes tener todos los usuarios que quieras�
 
 Además de la gestión de usuarios, el administrador puede modificar permisos de acceso a los elementos de Classroom.
 
-[incrustar aquí la presentación Mod1_1.5]
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKntYbVxfsI6aiWr8nswbv8U_4iAmTkO1m5eaAvvCnevAmpo-0Upc45WSvETEunZhmudvLet2fxik8/embed?start=false&loop=false&delayms=60000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>

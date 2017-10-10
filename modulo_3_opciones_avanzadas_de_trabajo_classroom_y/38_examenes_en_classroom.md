@@ -8,4 +8,6 @@ a). Utilizar las preguntas de selección múltiple dentro de Classroom. Opción 
 
 b). Crear un formulario en Drive y adjuntarlo a una tarea. Que sea autocorregible hace tiempo dependía del uso de complementos como Flubaroo. Hoy ya es posible sin ningún tipo de complemento, pero obviamente el examen tendrá que ser un examen tipo test.
 
-[insertar presentación Modulo3_3.8_examenes]
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgPN9hfHVQC4IG_ecXhzQHI3pQJjdPuMN_4OQAsUGxZi2Kn72NHN0-E2vk9KA8b5is_4-F7cOq4lB0/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>

@@ -8,6 +8,12 @@ De todas ellas hemos seleccionado alguna:
 
 [https://www.google.com/culturalinstitute/beta/theme/9QJyZ-tyLu9GJQ](https://www.google.com/culturalinstitute/beta/theme/9QJyZ-tyLu9GJQ)
 
+![Google Arts & Culture imagen](../assets/image13.png)
+
 #### - Museo de Historia Natural de América: [http://www.amnh.org/](http://www.amnh.org/) {#museo-de-historia-natural-de-am-rica-http-www-amnh-org}
 
+![American Museum of Natural History imagen](../assets/image6.png)
+
 #### -OpenED: [https://www.opened.com/search](https://www.opened.com/search) {#opened-https-www-opened-com-search}
+
+![OpenEd imagen](../assets/image24.png)

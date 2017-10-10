@@ -10,4 +10,6 @@ Siempre que entremos a cada aula virtual veremos el muro de las Novedades, la pa
 
 Los alumnos podrán realizar comentarios a cada una de estas publicaciones para aclarar sus dudas.
 
-[insertar presentación Módulo2_2.3]
+<div class="intrinsic-container">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSueBrSDiTdNONEFyIAJkqFjp8T51f47Ilwd8pDVSTdMDGgUjJKuf2upIxwh9HCuQypcfWijlfXZ7GU/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>

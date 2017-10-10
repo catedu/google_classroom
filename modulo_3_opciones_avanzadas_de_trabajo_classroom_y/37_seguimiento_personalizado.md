@@ -4,6 +4,8 @@ Hemos visto las diversas formas desde las que controlar el trabajo de cada alumn
 
 Podemos consultar esta ficha individual dentro de la pestaña “Alumnos”, a la que se puede acceder directamente desde la página de inicio de Classroom:
 
+![Acceder a la pestaña alumnos desde la página de inicio de Classroom](../assets/image33.png)
+
 Pinchamos en el número de alumnos de la miniatura de la clase:
 
 ![miniatura.PNG](../assets/miniaturapng.png)
