@@ -1,3 +1,3 @@
 # Google Classroom {#google-classroom}
 
-This file serves as your book&#039;s preface, a great place to describe your book&#039;s content and ideas.
+Breve curso introductorio a esta potente herramienta de gestión asignaturas que ofrece Google.
