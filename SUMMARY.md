@@ -44,3 +44,5 @@
   * [](modulo_4_mas_alla_de_classroom/.6.md)
   * [4.5. Transferir datos, crear una copia de seguridad, transferir una clase](modulo_4_mas_alla_de_classroom/45_transferir_datos,_crear_una_copia_de_seguridad,.md)
   * [Para saber más](para_saber_mas.md)
+
+  * [Créditos](creditos.md)
