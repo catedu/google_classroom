@@ -6,7 +6,7 @@ Al entrar en Classroom veremos todas las clases que tenemos creadas o aquellas e
 
 El icono que representa la carpeta da acceso directo a la carpeta que se ha creado en Drive.
 
-Los tres puntos que se encuentran en la esquina superior derecha de cada clase permite unas tareas de gestión u otras en función de qué perfil se tiene en cada clase:
+El icono de tres puntos que se encuentra en la esquina superior derecha de cada clase permite unas tareas de gestión u otras en función de qué perfil se tiene en cada clase:
 
 En el caso de ser el creador y administrador de la clase...  
 ![opciones del administrador](../assets/image36.png)
