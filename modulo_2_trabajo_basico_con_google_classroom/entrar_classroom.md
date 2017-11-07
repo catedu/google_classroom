@@ -23,3 +23,4 @@ Los permisos como alumno están más limitados que como profesor dentro de la cl
 
 Se pueden disponer las clases en el orden que se quiera de una manera sencilla, desplazándolas en la ventana.
 
+---
