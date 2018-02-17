@@ -33,8 +33,15 @@ En ocasiones resulta muy útil elaborar un pequeño video para explicar cómo re
 ### 4.2.4\. Otras aplicaciones: {#4-2-4-otras-aplicaciones}
 
 *   **Adittio** app es una aplicación, de pago, que permite llevar un cuaderno de notas digital sincronizado con Google Classroom: [http://www.additioapp.com/es/google-classroom/](http://www.additioapp.com/es/google-classroom/)
-*   **Quizziz** es una herramienta de creación de cuestionarios similar al popular Kahoot integrada en Classroom:
 
+*   **Quizziz** es una herramienta de creación de cuestionarios similar al popular Kahoot integrada en Classroom:
 [https://quizizz.zendesk.com/hc/en-us/articles/207153729-How-to-use-the-Google-Classroom-integration-](https://quizizz.zendesk.com/hc/en-us/articles/207153729-How-to-use-the-Google-Classroom-integration-)
 
 *   **Flat/ Soundtrap:** orientadas a profesores de Música. [https://flat.io/edu#works-with](https://flat.io/edu#works-with) y [https://soundtrap.zendesk.com/hc/en-us/sections/201735632-Google-Classroom](https://soundtrap.zendesk.com/hc/en-us/sections/201735632-Google-Classroom)
+
+*   **Classcraft:** plataforma de ludificación. La integración con Classroom permite importar clases, compartir documentos de Drive y exportar calificaciones. [https://help.classcraft.com/hc/en-us/articles/217901468-Connecting-to-Google-and-Google-Classroom](https://help.classcraft.com/hc/en-us/articles/217901468-Connecting-to-Google-and-Google-Classroom)
+
+* **Duolingo**, concebida para facilitar el aprendizaje de idiomas, se integra con Google Classroom permitiendo una rápida asignación de tareas:
+[https://www.duolingo.com/](https://www.duolingo.com/)
+
+
