@@ -18,21 +18,15 @@ De todas ellas hemos seleccionado alguna:
 
 ![OpenEd imagen](../assets/image24.png)
 
-
+#### 
 
 #### **-Scratch: **[**https://scratch.mit.edu/**](https://scratch.mit.edu/)
 
 ![](/assets/captura_scratch.PNG)
 
-
+#### 
 
 #### -**PhET, simulaciones interactivas para Ciencias y Matemáticas:** [https://phet.colorado.edu/es/](https://phet.colorado.edu/es/)
 
- ![](/assets/captura_phet.PNG)
-
-
-
-
-
-
+![](/assets/captura_phet.PNG)
 
