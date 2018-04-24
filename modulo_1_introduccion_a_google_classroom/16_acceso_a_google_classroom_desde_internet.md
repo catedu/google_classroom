@@ -1,4 +1,4 @@
-## 1.6\. Acceso a Google Classroom desde Internet {#1-6-acceso-a-google-classroom-desde-internet}
+## Acceso a Google Classroom {#1-6-acceso-a-google-classroom-desde-internet}
 
 Cuando ya tenemos cuenta de usuario en Google Classroom existen varias vías de acceso a la plataforma, bien directamente o desde cualquier otro servicio Google. Por ejemplo, si accedemos a nuestra cuenta de correo electrónico, podremos entrar en Classroom buscando la aplicación clicando en el mosaico que aparece en la esquina superior derecha. En caso de que no aparezca entre los iconos el de Classroom, abrir primero Gmail.
 
